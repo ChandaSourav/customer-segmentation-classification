@@ -1,1 +1,1 @@
-# customer-segmentation-classification
+# customer-segmentation-classifier
